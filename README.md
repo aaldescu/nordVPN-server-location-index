@@ -4,8 +4,8 @@ Script and list of NordVPN Server Locations .
 ## Context
 A complete list of NordVPN servers and their geo location so that one can configure the OpenVPN Client for a specific location.
 
-## Insatalation info
-You need the python lib **geoip2.database** and download from MaxMind the **GeoLite2-City.mmdb**
+## Instalation Info
+You need the python lib **geoip2.database** and download from MaxMind the **GeoLite2-City.mmdb**.
 You will need a free GeoLite2 account to download the GeoLite2 databases or to query the GeoLite2 web services.
 
 ## Genrated table
